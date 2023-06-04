@@ -1,0 +1,151 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  .header {
+    margin: 0px;
+    padding: 0px;
+  }
+  .logo {
+    width: 130px;
+  }
+  .location-font {
+    font-size: 12px;
+  }
+  .address {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .enhover:hover {
+    border: 1px solid white;
+    border-radius: 2px;
+  }
+  section {
+    margin: 0px;
+    padding: 0px;
+  }
+  .menu {
+    margin: 0px;
+    padding: 0px;
+  }
+  .explore {
+    color: rgb(6, 121, 121);
+    margin-left: 14px;
+    font-size: 12px;
+  }
+  .title-card {
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  div.scrollmenu {
+    background-color: rgb(229, 210, 210);
+    overflow: auto;
+    white-space: nowrap;
+  }
+  div.scrollmenu .scroll {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+  }
+  .footer-content-list {
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .footer-content-list a {
+    color: rgb(209, 196, 196);
+    text-decoration: none;
+  }
+  .footer-content-list a:hover {
+    text-decoration: underline;
+  }
+  .footer-content {
+    background-color: #232f3e;
+  }
+  .country {
+    background-color: #232f3e;
+    text-align: center;
+    color: white;
+    margin-right: 25px;
+    margin-left: 550px;
+    margin-bottom: 35px;
+  }
+  ul.footel-ul li {
+    color: rgb(164, 168, 176);
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    font-size: 13px;
+  }
+  .policy {
+    color: rgb(186, 192, 205);
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 25px;
+  }
+  .card-text {
+    font-size: 12px;
+  }
+  .dropbtn-sign {
+    color: white;
+    font-size: 16px;
+    border: none;
+  }
+  .dropdown-sign {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content-sign {
+
+    /* change here */
+    display: none;
+    color: black;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 500px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    right: -100px;
+    top: 45px;
+  }
+
+  .dropdown-content-sign a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content-sign a:hover {
+    color: rgb(210, 153, 9);
+    text-decoration: underline;
+  }
+
+  .dropdown-sign:hover .dropdown-content-sign {
+    display: block;
+  }
+  .vl {
+    border-left: 1px solid rgb(185, 196, 185);
+    height: 500px;
+    margin-left: 120px;
+}
+.new-sign{
+    font-weight: 700;
+    font-size: 20px;
+    list-style-type: none;
+}
+ .li-sign{
+    list-style-type: none;
+} 
+.sign
+{
+    background-color: rgb(227, 188, 31); 
+    width: 250px; margin: 10px;
+    padding: 12px 25px 12px 25px;
+    border: rgb(172, 124, 5);
+    border-radius: 5px;
+}
+.banner{
+    margin: 25px 10px 100px 200px;    
+ 
+}
